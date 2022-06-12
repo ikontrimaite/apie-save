@@ -1,0 +1,108 @@
+
+body{
+    background: black;
+    color: rebeccapurple;
+    text-align: center;
+    font-family: open sans;
+}
+h1{
+    color: azure;
+    text-align: center;
+    font-size: 600;
+}
+h1 {
+    color: green;
+    text-align: center
+    
+}
+span{
+    color: red;
+}
+ul {
+    list-style: none;
+    padding: 0;
+
+}
+
+li {
+    color: red;
+    background: yellow;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.heading{
+    background: cornflowerblue;
+    border: 3px solid yellow;
+    color: blue;
+    text-align: left;
+    font-size: 300;
+}
+p {
+    color: white;
+    text-align: justify;
+    margin: auto;
+    max-width: 500px;
+}
+.heading2{
+    background: #1E90FF;
+    border: 3px solid yellow;
+    color: blue;
+    text-align: center;
+    font-size: 300;
+}
+img{
+    width: 400px;
+    height: 400px;
+    background: url(image1.jpg);
+    background-size: cover;
+}
+.heading3{
+    background: #6A5ACD;
+    border: 3px solid yellow;
+    color: blue;
+    text-align: right;
+    font-size: 300;
+}
+p {
+    color: white;
+    text-align: justify;
+    margin: auto;
+    max-width: 500px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    background: url(image2.jpg);
+    background-size: cover;
+}
+img{
+    width: 400px;
+    height: 300px;
+    background: url(image3.jpg);
+    background-size: cover;
+}
+
+.heading4{
+    background: #87CEFA;
+    border: 3px solid yellow;
+    color: blue;
+    text-align: left;
+    font-size: 300;
+}
+.heading5{
+    background: #4169E1;
+    border: 3px solid yellow;
+    color: blue;
+    text-align: center;
+    font-size: 300;
+}
+
+p {
+    color: white;
+    text-align: justify;
+    margin: auto;
+    max-width: 500px;
+}
